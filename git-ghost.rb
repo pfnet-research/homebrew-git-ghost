@@ -1,9 +1,9 @@
 class GitGhost < Formula
   desc "Synchronize your working directory efficiently to a remote place without committing the changes."
   homepage "https://github.com/pfnet-research/git-ghost"
-  url "https://github.com/pfnet-research/git-ghost/releases/download/v0.1.1/git-ghost-darwin-amd64"
-  sha256 "b4e54928fc3d3a84280e3386aa41e2d728b3bac6df7d81a4e67c5544e83c71a9"
-  version "0.1.1"
+  url "https://github.com/pfnet-research/git-ghost/releases/download/v0.1.2/git-ghost-darwin-amd64"
+  sha256 "d3a9656876b81c4d7b37fdaada3a3c834961d1c827ba6ad9fcc8f2c7f61203dd"
+  version "0.1.2"
 
 	bottle :unneeded
 
