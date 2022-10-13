@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: This tap is NOT maintained anymore.
+
 # Homebrew Tap for Git Ghost
 
 [Git Ghost](https://github.com/pfnet-research/git-ghost) homebrew tap repository for macOS.
