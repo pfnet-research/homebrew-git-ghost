@@ -1,4 +1,4 @@
-# DEPRECATION NOTICE: This tap is NOT maintained anymore.
+# DEPRECATION NOTICE: This tap is NOT maintained anymore. Please see [pfnet-research/git-ghost](https://github.com/pfnet-research/git-ghost) for how to install.
 
 # Homebrew Tap for Git Ghost
 
